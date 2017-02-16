@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "MySQL"
+subtitle: "mysql basic"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/mysql.png"
