@@ -8,10 +8,12 @@ date:   2017-02-16 12:12:12
 ---
 
 ### Uninstall MySQL Packages
-~~~~ yum remove mysql mysql-server ~~~~
+``` yum remove mysql mysql-server ```
 
 ### Romove MySQL Directory
-~~~~ mv /var/lib/mysql /var/lib/mysql_old_backup ~~~~
+~~~~
+ mv /var/lib/mysql /var/lib/mysql_old_backup
+ ~~~~
 
 ### Install MySQL Packages Again
 ~~~~ yum install mysql mysql-server ~~~~
