@@ -15,3 +15,5 @@ mv /var/lib/mysql /var/lib/mysql_old_backup
 
 ### Install MySQL Packages Again
 yum install mysql mysql-server
+### test
+A [link](http://example.com "Title").
